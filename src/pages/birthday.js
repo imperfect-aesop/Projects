@@ -6,5 +6,5 @@ export const birthday = {
   message: '',
   from: 'Always yours, Akshay',
   accent: '#c84b6e',
-  musicUrl: '',
+  musicUrl: '/music/Varnajaalam.mp3',
 }
