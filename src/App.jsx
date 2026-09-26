@@ -744,7 +744,7 @@ I love you.`;
             {celebrating && (
               <>
                 <Fireworks />
-                <motion.div
+                {/* <motion.div
                   className="celebration-message"
                   initial={{ opacity: 0, y: 15 }}
                   animate={{ opacity: 1, y: 0 }}
@@ -752,7 +752,7 @@ I love you.`;
                   <span>✦</span>
                   <p>{birthday.message}</p>
                   <strong>Happy birthday, my love.</strong>
-                </motion.div>
+                </motion.div> */}
               </>
             )}
           </AnimatePresence>
